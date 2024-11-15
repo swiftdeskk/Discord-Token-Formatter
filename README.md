@@ -30,7 +30,7 @@ Permite separar y guardar la información en diferentes formatos según las nece
 ## 🚀 **Cómo usar**
 1. Clona el repositorio en tu máquina local.  
    ```bash
-   git clone https://github.com/tuusuario/TokenFormatter.git
+   git clone https://github.com/swiftdeskk/TokenFormatter.git
    cd TokenFormatter
    ```
 2. Asegúrate de que tienes un archivo llamado `tokens.txt` en el mismo directorio del script.  
